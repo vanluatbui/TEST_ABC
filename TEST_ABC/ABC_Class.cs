@@ -4,5 +4,7 @@
     {
         public int LEXH;
         public string LOITHOI;
+
+        //TATA
     }
 }
