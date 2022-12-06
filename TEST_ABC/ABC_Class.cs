@@ -2,6 +2,6 @@
 {
     public class ABC_Class
     {
-        public int LEX;
+        public int LEXH;
     }
 }
